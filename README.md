@@ -1,5 +1,3 @@
-Sure! I can help you create a beautiful README for your project. Here's an example of how it could look:
-
 # Tunisian Water Level Prediction
 
 This project is a Jupyter Notebook that implements a Time Series model for predicting the water level in multiple dams across Tunisia. The goal of the project is to provide accurate and timely predictions to help monitor and manage water resources in the country.
